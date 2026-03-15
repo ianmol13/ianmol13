@@ -134,7 +134,7 @@ PING anmol.dev ...
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=0a0e0a&labelColor=00ff41)](https://linkedin.com/in/ianmol13)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=0a0e0a&labelColor=00ff41)](https://https://ianmol13.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=0a0e0a&labelColor=00ff41)](https://ianmol13.github.io/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=0a0e0a&labelColor=00ff41)](https://tryhackme.com/p/whiteghost99)
 </div>
 
