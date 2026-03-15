@@ -29,8 +29,7 @@
 > Name      : Anmol
 > Role      : Ethical Hacker | Security Researcher | Hardware Hacker
 > Location  : Kolkata, India
-> Mission   : Breaking things ethically. Building things dangerously.
-> Target    : Google · PayPal · Microsoft
+> Currently    : Pentesting + SOC Analysis + RF Security
 > Status    : [█████████░] LEVELING UP...
 ```
 
