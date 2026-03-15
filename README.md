@@ -124,8 +124,6 @@ drwxr-xr-x  Hardware-Hack-Lab      [Raspberry Pi · RFID · CAN bus · LAN tap]
 <img src="https://raw.githubusercontent.com/ianmol13/ianmol13/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> **⚙️ Setup snake:** Go to your profile repo → Actions tab → New workflow → paste the snake action YAML below this README. It runs daily and commits the SVG automatically.
-
 ---
 
 ```bash
