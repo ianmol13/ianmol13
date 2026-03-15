@@ -121,7 +121,7 @@ drwxr-xr-x  Hardware-Hack-Lab      [Raspberry Pi · RFID · CAN bus · LAN tap]
 
 <!-- Replace YOUR_USERNAME below. After setting up the snake GitHub Action, this will animate -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ianmol13/ianmol13/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 > **⚙️ Setup snake:** Go to your profile repo → Actions tab → New workflow → paste the snake action YAML below this README. It runs daily and commits the SVG automatically.
