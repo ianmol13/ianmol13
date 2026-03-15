@@ -29,7 +29,7 @@
 > Name      : Anmol
 > Role      : Ethical Hacker | Security Researcher | Hardware Hacker
 > Location  : Kolkata, India
-> Currently    : Pentesting + SOC Analysis + RF Security
+> Currently : Pentesting + SOC Analysis + RF Security
 > Status    : [█████████░] LEVELING UP...
 ```
 
