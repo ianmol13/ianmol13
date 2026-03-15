@@ -100,9 +100,9 @@ drwxr-xr-x  Hardware-Hack-Lab      [Raspberry Pi · RFID · CAN bus · LAN tap]
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00ff41&text_color=00cc34&border_color=00ff41" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ianmol13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00ff41&text_color=00cc34&border_color=00ff41" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00cc34" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmol13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00cc34" />
 
 </div>
 
