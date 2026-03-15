@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%5B+INITIALIZING+ANMOL.EXE+...+%5D;%3E+Ethical+Hacker+%7C+Penetration+Tester+%7C+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%5B+INITIALIZING+ANMOL.EXE+...+%5D;%3E+Ethical+Hacker+%7C+Penetration+Tester+%7C+Security+Tools+Builder)](https://git.io/typing-svg)
 
 ```
  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
