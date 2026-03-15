@@ -134,8 +134,8 @@ drwxr-xr-x  Hardware-Hack-Lab      [Raspberry Pi · RFID · CAN bus · LAN tap]
 ```
 PING anmol.dev ... 
 64 bytes: icmp_seq=1 >> LinkedIn
-64 bytes: icmp_seq=2 >> Twitter/X
-64 bytes: icmp_seq=3 >> Portfolio
+64 bytes: icmp_seq=2 >> Portfolio
+64 bytes: icmp_seq=3 >> TryHackMe
 
 --- connect with me ---
 3 packets transmitted, open to collaboration
