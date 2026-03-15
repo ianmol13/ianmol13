@@ -41,11 +41,8 @@
 ```
 
 ```
-drwxr-xr-x  ESP32-Marauder         [RF signal capture · replay · deauth]
-drwxr-xr-x  Flipper-Zero-Alt       [Sub-GHz · IR · BadUSB · NFC/RFID · BLE]
-drwxr-xr-x  ATtiny85-BadUSB        [USB Rubber Ducky clone · HID attacks]
 drwxr-xr-x  Subdomain-Enum-Tool    [Python · VirusTotal API · Streamlit]
-drwxr-xr-x  Hardware-Hack-Lab      [Raspberry Pi · RFID · CAN bus · LAN tap]
+drwxr-xr-x  Secure Password Vault  [Java · Encryption · Cryptography]
 ```
 
 ---
@@ -60,17 +57,11 @@ drwxr-xr-x  Hardware-Hack-Lab      [Raspberry Pi · RFID · CAN bus · LAN tap]
 ![Pentesting](https://img.shields.io/badge/Penetration_Testing-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
 ![Web App Security](https://img.shields.io/badge/Web_App_Security-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
 ![Network Security](https://img.shields.io/badge/Network_Security-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
-![RF Hacking](https://img.shields.io/badge/RF_/_SDR_Hacking-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
-![BadUSB](https://img.shields.io/badge/BadUSB_/_HID-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
-![RFID NFC](https://img.shields.io/badge/RFID_/_NFC_Cloning-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
 
 **`>> HARDWARE`**
 
 ![ESP32](https://img.shields.io/badge/ESP32-007a2e?style=flat-square&labelColor=0d1a0d)
-![ATtiny85](https://img.shields.io/badge/ATtiny85-007a2e?style=flat-square&labelColor=0d1a0d)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-007a2e?style=flat-square&labelColor=0d1a0d)
 ![Arduino](https://img.shields.io/badge/Arduino-007a2e?style=flat-square&labelColor=0d1a0d)
-![KiCad](https://img.shields.io/badge/KiCad_PCB-007a2e?style=flat-square&labelColor=0d1a0d)
 
 **`>> TOOLS & LANGUAGES`**
 
