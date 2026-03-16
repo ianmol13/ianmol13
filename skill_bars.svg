@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="580" viewBox="0 0 800 580">
+  <!--
+  ============================================================
+  HACKER SKILL BARS — skill_bars.svg
+  ============================================================
+  HOW TO UPDATE PERCENTAGES:
+  Each skill has two things to change:
+    1. The percentage TEXT  → change the number inside >XX%<
+    2. The bar WIDTH        → width="XXX" (formula: percent * 7.4)
+  
+  FORMULA: new_width = your_percentage * 7.4
+  Examples:
+    50% → width="370"
+    60% → width="444"
+    65% → width="481"
+    70% → width="518"
+    75% → width="555"
+    80% → width="592"
+    85% → width="629"
+    90% → width="666"
+    95% → width="703"
+   100% → width="740"
+  ============================================================
+  -->
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="#0a0e0a" rx="10"/>
+  <rect width="800" height="580" fill="none" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2" rx="10"/>
+
+  <!-- Header -->
+  <text x="30" y="38" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#00ff41" fill-opacity="0.6" letter-spacing="3">// SKILL LEVELS</text>
+  <line x1="30" y1="46" x2="770" y2="46" stroke="#00ff41" stroke-width="0.4" stroke-opacity="0.15"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 1: Network Pentesting                                  -->
+  <!-- To update: change 88% text AND width="651" (88 * 7.4 = 651) -->
+  <!-- ============================================================ -->
+  <text x="30" y="75" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Network Pentesting</text>
+  <text x="770" y="75" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">88%</text>
+  <rect x="30" y="81" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="81" width="651" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 2: Hardware Hacking                                    -->
+  <!-- To update: change 82% text AND width="607" (82 * 7.4 = 607) -->
+  <!-- ============================================================ -->
+  <text x="30" y="117" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Hardware Hacking</text>
+  <text x="770" y="117" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">82%</text>
+  <rect x="30" y="123" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="123" width="607" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 3: Linux                                               -->
+  <!-- To update: change 78% text AND width="577" (78 * 7.4 = 577) -->
+  <!-- ============================================================ -->
+  <text x="30" y="153" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Linux</text>
+  <text x="770" y="153" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">78%</text>
+  <rect x="30" y="159" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="159" width="577" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 4: RF / SDR                                            -->
+  <!-- To update: change 75% text AND width="555" (75 * 7.4 = 555) -->
+  <!-- ============================================================ -->
+  <text x="30" y="189" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">RF / SDR</text>
+  <text x="770" y="189" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">75%</text>
+  <rect x="30" y="195" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="195" width="555" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 5: Reconnaissance                                      -->
+  <!-- To update: change 72% text AND width="533" (72 * 7.4 = 533) -->
+  <!-- ============================================================ -->
+  <text x="30" y="225" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Reconnaissance</text>
+  <text x="770" y="225" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">72%</text>
+  <rect x="30" y="231" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="231" width="533" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 6: Web App Security                                    -->
+  <!-- To update: change 70% text AND width="518" (70 * 7.4 = 518) -->
+  <!-- ============================================================ -->
+  <text x="30" y="261" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Web App Security</text>
+  <text x="770" y="261" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">70%</text>
+  <rect x="30" y="267" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="267" width="518" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 7: Nmap                                                -->
+  <!-- To update: change 70% text AND width="518" (70 * 7.4 = 518) -->
+  <!-- ============================================================ -->
+  <text x="30" y="297" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Nmap</text>
+  <text x="770" y="297" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">70%</text>
+  <rect x="30" y="303" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="303" width="518" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 8: Penetration Testing                                 -->
+  <!-- To update: change 68% text AND width="503" (68 * 7.4 = 503) -->
+  <!-- ============================================================ -->
+  <text x="30" y="333" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Penetration Testing</text>
+  <text x="770" y="333" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">68%</text>
+  <rect x="30" y="339" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="339" width="503" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 9: Vulnerability Assessment                            -->
+  <!-- To update: change 65% text AND width="481" (65 * 7.4 = 481) -->
+  <!-- ============================================================ -->
+  <text x="30" y="369" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Vulnerability Assessment</text>
+  <text x="770" y="369" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">65%</text>
+  <rect x="30" y="375" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="375" width="481" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 10: Burp Suite                                         -->
+  <!-- To update: change 63% text AND width="466" (63 * 7.4 = 466) -->
+  <!-- ============================================================ -->
+  <text x="30" y="405" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Burp Suite</text>
+  <text x="770" y="405" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">63%</text>
+  <rect x="30" y="411" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="411" width="466" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 11: OSINT                                              -->
+  <!-- To update: change 62% text AND width="459" (62 * 7.4 = 459) -->
+  <!-- ============================================================ -->
+  <text x="30" y="441" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">OSINT</text>
+  <text x="770" y="441" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">62%</text>
+  <rect x="30" y="447" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="447" width="459" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 12: Wireshark                                          -->
+  <!-- To update: change 60% text AND width="444" (60 * 7.4 = 444) -->
+  <!-- ============================================================ -->
+  <text x="30" y="477" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Wireshark</text>
+  <text x="770" y="477" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">60%</text>
+  <rect x="30" y="483" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="483" width="444" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 13: Threat Analysis                                    -->
+  <!-- To update: change 55% text AND width="407" (55 * 7.4 = 407) -->
+  <!-- ============================================================ -->
+  <text x="30" y="513" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Threat Analysis</text>
+  <text x="770" y="513" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">55%</text>
+  <rect x="30" y="519" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="519" width="407" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 14: Red Teaming Basics                                 -->
+  <!-- To update: change 50% text AND width="370" (50 * 7.4 = 370) -->
+  <!-- ============================================================ -->
+  <text x="30" y="549" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Red Teaming Basics</text>
+  <text x="770" y="549" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">50%</text>
+  <rect x="30" y="555" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="555" width="370" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+</svg>
