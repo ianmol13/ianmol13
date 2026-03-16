@@ -90,15 +90,15 @@ drwxr-xr-x  Secure Password Vault  [Java · Encryption · Cryptography]
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ianmol13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00ff41&text_color=00cc34&border_color=00ff41" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ianmol13&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00ff41&text_color=00cc34&cache_seconds=1800" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmol13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00cc34" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmol13&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=00cc34&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ianmol13&theme=dark&hide_border=true&background=0a0e0a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc34&dates=00cc34&currStreakNum=00ff41&sideNums=00ff41" />
+<img src="https://streak-stats.demolab.com/?user=ianmol13&theme=dark&hide_border=true&background=0a0e0a&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc34&dates=00cc34&currStreakNum=00ff41&sideNums=00ff41&cache_seconds=1800" />
 
 </div>
 
