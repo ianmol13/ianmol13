@@ -82,13 +82,6 @@ drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/-%3E%3E%20SKILL%20SET-0d1117?style=flat&color=0d1117&labelColor=00ff41&logoColor=0d1117" />
-</div>
-```
-
----
-
 ---
 
 <pre style="background:#0d1117;color:#00ff41;padding:16px;border-radius:6px;border:1px solid #00ff4130;font-family:'Courier New',monospace;">
