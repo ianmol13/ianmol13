@@ -54,47 +54,33 @@ drwxr-xr-x  ATtiny85-BadUSB        [USB Rubber Ducky Clone · HID Attacks]
 ┌──(anmol㉿kali)-[~]
 └─$ nmap --skills self
 </pre>
+<div align="center">
 
-**`>> OFFENSIVE SECURITY`**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=python&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=cplusplus&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=openjdk&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=gnubash&logoColor=00ff41)
+![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=espressif&logoColor=00ff41)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=arduino&logoColor=00ff41)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=raspberrypi&logoColor=00ff41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=kalilinux&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=portswigger&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=wireshark&logoColor=00ff41)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=metasploit&logoColor=00ff41)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=nmap&logoColor=00ff41)
+![RF Hacking](https://img.shields.io/badge/RF_Hacking-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=hackaday&logoColor=00ff41)
+![BadUSB](https://img.shields.io/badge/BadUSB-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=usb&logoColor=00ff41)
+![RFID/NFC](https://img.shields.io/badge/RFID%2FNFC-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=nfc&logoColor=00ff41)
+![SOC/SIEM](https://img.shields.io/badge/SOC%2FSIEM-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=splunk&logoColor=00ff41)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=hackthebox&logoColor=00ff41)
+![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=duckduckgo&logoColor=00ff41)
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=virustotal&logoColor=00ff41)
+![Reconnaissance](https://img.shields.io/badge/Reconnaissance-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=radar&logoColor=00ff41)
+![Red Teaming](https://img.shields.io/badge/Red_Teaming-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=redhat&logoColor=00ff41)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=bugcrowd&logoColor=00ff41)
 
-![Pentesting](https://img.shields.io/badge/Penetration_Testing-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![Web App Security](https://img.shields.io/badge/Web_App_Security-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![Network Security](https://img.shields.io/badge/Network_Security-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![OSINT](https://img.shields.io/badge/OSINT-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![Red Teaming](https://img.shields.io/badge/Red_Teaming_Basics-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![Reconnaissance](https://img.shields.io/badge/Reconnaissance-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
-
-**`>> HARDWARE`**
-
-![ESP32](https://img.shields.io/badge/ESP32-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![ATtiny85](https://img.shields.io/badge/ATtiny85-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![Arduino](https://img.shields.io/badge/Arduino-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![RF Hacking](https://img.shields.io/badge/RF_/_SDR_Hacking-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![RFID NFC](https://img.shields.io/badge/RFID_/_NFC-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![BadUSB](https://img.shields.io/badge/BadUSB_/_HID-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-![KiCad](https://img.shields.io/badge/KiCad_PCB-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
-
-**`>> TOOLS & LANGUAGES`**
-
-![Python](https://img.shields.io/badge/Python-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![C++](https://img.shields.io/badge/C++-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Java](https://img.shields.io/badge/Java-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Bash](https://img.shields.io/badge/Bash-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Wireshark](https://img.shields.io/badge/Wireshark-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Metasploit](https://img.shields.io/badge/Metasploit-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-![Nmap](https://img.shields.io/badge/Nmap-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
-
-**`>> DEFENSIVE / SOC`**
-
-![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
-![SIEM](https://img.shields.io/badge/SIEM-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
-![Incident Response](https://img.shields.io/badge/Incident_Response-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
+</div>
+```
 
 ---
 
