@@ -80,7 +80,6 @@ drwxr-xr-x  ATtiny85-BadUSB        [USB Rubber Ducky Clone · HID Attacks]
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=bugcrowd&logoColor=00ff41)
 
 </div>
-```
 
 ---
 
