@@ -54,9 +54,7 @@ drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=python&logoColor=00ff41)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=cplusplus&logoColor=00ff41)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=openjdk&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=gnubash&logoColor=00ff41)
 ![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=espressif&logoColor=00ff41)
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=arduino&logoColor=00ff41)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=kalilinux&logoColor=00ff41)
