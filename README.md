@@ -1,9 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%5B+INITIALIZING+ANMOL.EXE+...+%5D;%3E+Ethical+Hacker+%7C+Penetration+Tester+%7C+Researcher)](https://git.io/typing-svg)
-</div>
 
-<div align="center">
 ```
  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗
  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
@@ -12,9 +10,7 @@
  ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
-</div>
 
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ianmol13&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/ianmol13?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS" />
