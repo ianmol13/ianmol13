@@ -12,9 +12,9 @@
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=ianmol13&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=0d1a0d" />
+<img src="https://komarev.com/ghpvc/?username=ianmol13&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ianmol13?style=for-the-badge&color=00ff41&labelColor=0d1a0d&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/ianmol13?style=for-the-badge&color=00ff41&labelColor=0d1117&label=FOLLOWERS" />
 
 </div>
 
@@ -54,32 +54,38 @@ drwxr-xr-x  Secure Password Vault  [Java · Encryption · Cryptography]
 
 **`>> OFFENSIVE SECURITY`**
 
-![Pentesting](https://img.shields.io/badge/Penetration_Testing-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
-![Web App Security](https://img.shields.io/badge/Web_App_Security-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
-![Network Security](https://img.shields.io/badge/Network_Security-00ff41?style=flat-square&logoColor=black&labelColor=0d1a0d)
+labelColor=0d1117&color=00ff41)
+![Web App Security](https://img.shields.io/badge/Web_App_Security-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
+![Network Security](https://img.shields.io/badge/Network_Security-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
+![OSINT](https://img.shields.io/badge/OSINT-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
+![Red Teaming](https://img.shields.io/badge/Red_Teaming_Basics-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
+![Reconnaissance](https://img.shields.io/badge/Reconnaissance-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
 
 **`>> HARDWARE`**
 
-![ESP32](https://img.shields.io/badge/ESP32-007a2e?style=flat-square&labelColor=0d1a0d)
-![Arduino](https://img.shields.io/badge/Arduino-007a2e?style=flat-square&labelColor=0d1a0d)
+![ESP32](https://img.shields.io/badge/ESP32-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
+![Arduino](https://img.shields.io/badge/Arduino-00cc34?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00cc34)
 
 **`>> TOOLS & LANGUAGES`**
 
-![Python](https://img.shields.io/badge/Python-004d1a?style=flat-square&labelColor=0d1a0d)
-![C++](https://img.shields.io/badge/C++-004d1a?style=flat-square&labelColor=0d1a0d)
-![Bash](https://img.shields.io/badge/Bash-004d1a?style=flat-square&labelColor=0d1a0d)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-004d1a?style=flat-square&labelColor=0d1a0d)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-004d1a?style=flat-square&labelColor=0d1a0d)
-![Wireshark](https://img.shields.io/badge/Wireshark-004d1a?style=flat-square&labelColor=0d1a0d)
-![Metasploit](https://img.shields.io/badge/Metasploit-004d1a?style=flat-square&labelColor=0d1a0d)
-![Nmap](https://img.shields.io/badge/Nmap-004d1a?style=flat-square&labelColor=0d1a0d)
+![Python](https://img.shields.io/badge/Python-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![C++](https://img.shields.io/badge/C++-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Java](https://img.shields.io/badge/Java-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Bash](https://img.shields.io/badge/Bash-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Wireshark](https://img.shields.io/badge/Wireshark-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Metasploit](https://img.shields.io/badge/Metasploit-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
+![Nmap](https://img.shields.io/badge/Nmap-009922?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=009922)
 
 **`>> DEFENSIVE / SOC`**
 
-![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-003311?style=flat-square&labelColor=0d1a0d)
-![SIEM](https://img.shields.io/badge/SIEM-003311?style=flat-square&labelColor=0d1a0d)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-003311?style=flat-square&labelColor=0d1a0d)
-![Incident Response](https://img.shields.io/badge/Incident_Response-003311?style=flat-square&labelColor=0d1a0d)
+![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
+![SIEM](https://img.shields.io/badge/SIEM-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
+![Incident Response](https://img.shields.io/badge/Incident_Response-007a1a?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=007a1a)
 
 ---
 
@@ -133,9 +139,10 @@ PING anmol.dev ...
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=0a0e0a&labelColor=00ff41)](https://linkedin.com/in/ianmol13)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=0a0e0a&labelColor=00ff41)](https://ianmol13.github.io/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-00ff41?style=for-the-badge&logo=tryhackme&logoColor=0a0e0a&labelColor=00ff41)](https://tryhackme.com/p/whiteghost99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117&color=00ff41)](https://linkedin.com/in/ianmol13)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff41&labelColor=0d1117&color=00ff41)](https://ianmol13.github.io/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117&color=00ff41)](https://tryhackme.com/p/whiteghost99)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117&color=00ff41)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
 </div>
 
 ---
