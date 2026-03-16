@@ -47,6 +47,9 @@ drwxr-xr-x  Subdomain-Enum-Tool    [Python · VirusTotal API · Streamlit]
 drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 </pre>
 
+---
+
+
 ```bash
 ┌──(anmol㉿kali)-[~]
 └─$ nmap --skills self
@@ -79,9 +82,6 @@ drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 
 </div>
 ```
-
----
-
 ---
 
 <pre style="background:#0d1117;color:#00ff41;padding:16px;border-radius:6px;border:1px solid #00ff4130;font-family:'Courier New',monospace;">
