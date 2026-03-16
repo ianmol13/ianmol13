@@ -25,13 +25,14 @@
 └─$ cat whoami.txt
 </pre>
 
-<pre style="background:#0d1117;color:#00ff41;padding:16px;border-radius:6px;border:1px solid #00ff4130;font-family:'Courier New',monospace;">
-&gt; Name      : Anmol
-&gt; Role      : Ethical Hacker | Security Researcher | Hardware Hacker
-&gt; Location  : Kolkata, India
-&gt; Currently : Pentesting + SOC Analysis + RF Security
-&gt; Status    : [█████████░] LEVELING UP...
-</pre>
+```diff
++ Name      : Anmol Kumar
++ Role      : Ethical Hacker | Security Researcher | Hardware Hacker
++ Location  : Kolkata, India
++ Currently : Pentesting + SOC Analysis + RF Security
++ Target    : Google · PayPal · Microsoft
++ Status    : [█████████░] LEVELING UP...
+```
 
 ---
 
