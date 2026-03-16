@@ -51,15 +51,6 @@
   <rect x="30" y="81" width="651" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
 
   <!-- ============================================================ -->
-  <!-- SKILL 2: Hardware Hacking                                    -->
-  <!-- To update: change 82% text AND width="607" (82 * 7.4 = 607) -->
-  <!-- ============================================================ -->
-  <text x="30" y="117" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Hardware Hacking</text>
-  <text x="770" y="117" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">82%</text>
-  <rect x="30" y="123" width="740" height="6" rx="3" fill="#0d1a0d"/>
-  <rect x="30" y="123" width="607" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
-
-  <!-- ============================================================ -->
   <!-- SKILL 3: Linux                                               -->
   <!-- To update: change 78% text AND width="577" (78 * 7.4 = 577) -->
   <!-- ============================================================ -->
@@ -67,15 +58,6 @@
   <text x="770" y="153" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">78%</text>
   <rect x="30" y="159" width="740" height="6" rx="3" fill="#0d1a0d"/>
   <rect x="30" y="159" width="577" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
-
-  <!-- ============================================================ -->
-  <!-- SKILL 4: RF / SDR                                            -->
-  <!-- To update: change 75% text AND width="555" (75 * 7.4 = 555) -->
-  <!-- ============================================================ -->
-  <text x="30" y="189" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">RF / SDR</text>
-  <text x="770" y="189" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">75%</text>
-  <rect x="30" y="195" width="740" height="6" rx="3" fill="#0d1a0d"/>
-  <rect x="30" y="195" width="555" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
 
   <!-- ============================================================ -->
   <!-- SKILL 5: Reconnaissance                                      -->
