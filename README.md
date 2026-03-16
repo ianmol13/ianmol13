@@ -50,7 +50,8 @@ drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 └─$ nmap --skills self
 ```
 
-**<span style="color:#00ff41">`>> OFFENSIVE SECURITY`</span>**
+**`>> OFFENSIVE SECURITY`**
+
 ![Web App Security](https://img.shields.io/badge/Web_App_Security-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
 ![Network Security](https://img.shields.io/badge/Network_Security-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-00ff41?style=flat-square&logoColor=0d1117&labelColor=0d1117&color=00ff41)
