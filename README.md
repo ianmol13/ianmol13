@@ -82,26 +82,12 @@ drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 
 ---
 
-**To get the exact bordered chip look** from your screenshot, add this line just before the badges to wrap them with a visible green border box:
-```markdown
 <div align="center">
 <img src="https://img.shields.io/badge/-%3E%3E%20SKILL%20SET-0d1117?style=flat&color=0d1117&labelColor=00ff41&logoColor=0d1117" />
 </div>
 ```
 
 ---
-
-**What makes it look exactly like your screenshot:**
-
-| Property | Value | Effect |
-|---|---|---|
-| `style=flat` | flat | Rounded chip shape |
-| `color=0d1117` | dark bg | Black background on right |
-| `labelColor=0d1117` | dark bg | Black background on left |
-| `logoColor=00ff41` | matrix green | Green icon |
-| text color | auto white → override | Green text via logo color |
-
-The chips will wrap automatically into rows just like your screenshot — no extra formatting needed.
 
 ---
 
