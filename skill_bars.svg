@@ -5,9 +5,9 @@
   ============================================================
   HOW TO UPDATE PERCENTAGES:
   Each skill has two things to change:
-    1. The percentage TEXT  → change the number inside >XX%<
+    1. The percentage TEXT  → change the number inside >XX%
     2. The bar WIDTH        → width="XXX" (formula: percent * 7.4)
-  
+
   FORMULA: new_width = your_percentage * 7.4
   Examples:
     50% → width="370"
@@ -42,13 +42,13 @@
   <line x1="30" y1="46" x2="770" y2="46" stroke="#00ff41" stroke-width="0.4" stroke-opacity="0.15"/>
 
   <!-- ============================================================ -->
-  <!-- SKILL 1: Network Pentesting                                  -->
-  <!-- To update: change 88% text AND width="651" (88 * 7.4 = 651) -->
+  <!-- SKILL 1: Network Pentesting                                    -->
+  <!-- To update: change 82% text AND width="607" (82 * 7.4 = 607) -->
   <!-- ============================================================ -->
-  <text x="30" y="75" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Network Pentesting</text>
-  <text x="770" y="75" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">88%</text>
-  <rect x="30" y="81" width="740" height="6" rx="3" fill="#0d1a0d"/>
-  <rect x="30" y="81" width="651" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+  <text x="30" y="117" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">Network Pentesting</text>
+  <text x="770" y="117" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">82%</text>
+  <rect x="30" y="123" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="123" width="607" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
 
   <!-- ============================================================ -->
   <!-- SKILL 3: Linux                                               -->
@@ -58,6 +58,15 @@
   <text x="770" y="153" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">78%</text>
   <rect x="30" y="159" width="740" height="6" rx="3" fill="#0d1a0d"/>
   <rect x="30" y="159" width="577" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
+
+  <!-- ============================================================ -->
+  <!-- SKILL 4: RF / SDR                                            -->
+  <!-- To update: change 75% text AND width="555" (75 * 7.4 = 555) -->
+  <!-- ============================================================ -->
+  <text x="30" y="189" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00cc34">OWASP Top 10</text>
+  <text x="770" y="189" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#00ff41" text-anchor="end" filter="url(#glow)">75%</text>
+  <rect x="30" y="195" width="740" height="6" rx="3" fill="#0d1a0d"/>
+  <rect x="30" y="195" width="555" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
 
   <!-- ============================================================ -->
   <!-- SKILL 5: Reconnaissance                                      -->
@@ -150,3 +159,18 @@
   <rect x="30" y="555" width="370" height="6" rx="3" fill="#00ff41" filter="url(#glow)"/>
 
 </svg>
+```
+
+---
+
+**To update any skill — only 2 values to change:**
+```
+Example: bump Burp Suite from 63% → 80%
+
+BEFORE:
+  ...filter="url(#glow)">63%</text>
+  <rect ... width="466" .../>   ← filled bar
+
+AFTER:
+  ...filter="url(#glow)">80%</text>
+  <rect ... width="592" .../>   ← 80 × 7.4 = 592
