@@ -52,11 +52,6 @@ drwxr-xr-x  Secure-Password-Vault  [Java · Encryption · Cryptography]
 └─$ nmap --skills self
 ```
 
-```bash
-┌──(anmol㉿kali)-[~]
-└─$ nmap --skills self
-` ``
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&color=0d1117&labelColor=0d1117&logo=python&logoColor=00ff41)
